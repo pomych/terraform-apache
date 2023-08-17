@@ -12,7 +12,6 @@ variable "server_name" {
   default = "Apache Server"
 }
 
-
 variable "vpc_id" {
   type = string
 }
